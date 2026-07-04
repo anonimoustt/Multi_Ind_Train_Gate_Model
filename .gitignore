@@ -1,0 +1,14 @@
+SOAR/
+.claude/
+__pycache__/
+*.pyc
+*.pyd
+*.dll
+*.lib
+*.so
+*.dylib
+*.exp
+*.jar
+*.exe
+*.md
+ui/dashboard.py
